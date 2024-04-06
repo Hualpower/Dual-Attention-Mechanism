@@ -1,0 +1,11 @@
+path: bvn
+train: images/train
+val: images/val
+test: 
+
+# classes
+names:
+  0: plane
+  1: plane
+
+  
